@@ -1,4 +1,4 @@
-package collections.list.soma_numeros;
+package collections.list.pesquisa.soma_numeros;
 
 import java.util.ArrayList;
 import java.util.List;

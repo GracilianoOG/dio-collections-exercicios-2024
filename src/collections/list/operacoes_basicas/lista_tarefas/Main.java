@@ -1,4 +1,4 @@
-package collections.list.lista_tarefas;
+package collections.list.operacoes_basicas.lista_tarefas;
 
 public class Main {
     public static void main(String[] args) {

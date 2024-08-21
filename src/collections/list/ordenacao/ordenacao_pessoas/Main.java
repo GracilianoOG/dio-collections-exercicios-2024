@@ -1,4 +1,4 @@
-package collections.list.ordenacao_pessoas;
+package collections.list.ordenacao.ordenacao_pessoas;
 
 public class Main {
     public static void main(String[] args) {

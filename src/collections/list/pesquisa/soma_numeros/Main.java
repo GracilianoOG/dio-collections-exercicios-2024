@@ -1,4 +1,4 @@
-package collections.list.soma_numeros;
+package collections.list.pesquisa.soma_numeros;
 
 public class Main {
     public static void main(String[] args) {

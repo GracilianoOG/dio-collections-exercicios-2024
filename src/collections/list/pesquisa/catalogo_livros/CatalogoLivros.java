@@ -1,4 +1,4 @@
-package collections.list.catalogo_livros;
+package collections.list.pesquisa.catalogo_livros;
 
 import java.util.ArrayList;
 import java.util.List;
